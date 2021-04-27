@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppTutoria2</string>
+    <string name="stextot">Digite el Nombre</string>
+    <string name="etextot">Digite la Edad</string>
+    <string name="dtextot">Digite la Estatura</string>
+    <string name="entt">ENTRADA DE DATOS</string>
+    <string name="botont">Enviar</string>
+</resources>
